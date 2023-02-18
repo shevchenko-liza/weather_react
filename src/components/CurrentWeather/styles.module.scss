@@ -1,0 +1,266 @@
+.top {
+    color: green;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1200px;
+}
+
+.first {
+    display: flex;
+    gap: 20px;
+}
+
+.second {
+    display: flex;
+    gap: 15px;
+}
+
+.icon {
+    height: 65px;
+    width: 65px;
+    margin-top: 20px;
+}
+
+.weather {
+    height: 30px;
+    width: 230px;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #4793FF;
+    margin-top: 37px;
+}
+
+.drop {
+    height: 28px;
+    width: 23px;
+    margin-top: 35px;
+}
+
+.city {
+    width: 55px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #4793FF;
+    margin-top: 33px;
+}
+
+.currentWeather {
+    box-shadow: 0.5px 1px 5px 1px rgba(180, 180, 180, 180);
+    width: 400px;
+    height: 300px;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.box {
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+}
+
+.mainBox {
+    display: flex;
+}
+
+.todayWeather {
+    font-family: Montserrat;
+    font-size: 96px;
+    font-weight: 500;
+    color: #4793FF;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.twd {
+    display: flex;
+}
+
+.degree {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 400;
+    color: #4793FF;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-top: 30px;
+}
+
+.today {
+    font-weight: 400;
+    color: #4793FF;
+    margin-left: 25px;
+    font-size: 40px;
+    color: black;
+}
+
+.mainCity {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #939CB0;
+    margin-left: 25px;
+    margin-top: 14px;
+}
+
+.iconWeather {
+    height: 180px;
+    width: 190px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.secondPart {
+    height: 300px;
+    width: 750px;
+    box-shadow: 0.5px 1px 5px 1px rgba(180, 180, 180, 180);
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.tempBlock {
+    display: flex;
+}
+
+.pressureBlock {
+    display: flex;
+}
+
+.humidityBlock {
+    display: flex;
+}
+
+.windBlock {
+    display: flex;
+}
+
+.tempIcon {
+    height: 25px;
+    width: 14px;
+    margin-top: 49px;
+    margin-left: 45px;
+}
+
+.temp {
+    height: 18px;
+    width: 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #939CB0;
+    margin-top: 49px;
+    margin-left: 20px;
+}
+
+.tempWeather {
+    height: 17px;
+    width: 169px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 49px;
+}
+
+.pressureIcon {
+    height: 19px;
+    width: 14px;
+    margin-left: 43px;
+}
+
+.pressure {
+    height: 18px;
+    width: 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #939CB0;
+    margin-left: 22px;
+}
+
+.mainPressure {
+    height: 17px;
+    width: 169px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #000000;
+}
+
+.humidityIcon {
+    height: 19px;
+    width: 14px;
+    margin-left: 43px;
+}
+
+.humidity {
+    height: 18px;
+    width: 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #939CB0;
+    margin-left: 22px;
+}
+
+.humidityPercent {
+    height: 17px;
+    width: 169px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #000000;
+}
+
+.windIcon {
+    height: 19px;
+    width: 14px;
+    margin-left: 43px;
+}
+
+.wind {
+    height: 18px;
+    width: 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #939CB0;
+    margin-left: 22px;
+}
+
+.m_s {
+    height: 17px;
+    width: 169px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #000000;
+}
+
+.pressureBlock {
+    margin-top: 35px;
+}
+
+.humidityBlock {
+    margin-top: 35px;
+}
+
+.windBlock {
+    margin-top: 35px;
+}
